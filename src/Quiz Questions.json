@@ -8,8 +8,8 @@
     {
         "id": 2,
         "question": "What is our national tree?",
-        "options": ["Guava", "Coconut", "Palm", "Rose"],
-        "correctOption": "Palm"   
+        "options": ["Guava", "Coconut", "Palm", "Banyan"],
+        "correctOption": "Banyan"   
     },
     {
         "id": 3,
